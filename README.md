@@ -630,5 +630,5 @@ plt.show()
 
 # Conclusion
 ## Taster's given description of the wine is closely corresponds to their given points of the wine
-
+### *not related to the project, this is just me updating my resume.
 ![png](upwork.png)
