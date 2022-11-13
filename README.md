@@ -2,7 +2,7 @@
 ![png](upwork.png)
 https://www.upwork.com/freelancers/~010513853d76c89bea
 
-![jpg](1.jpg =108x165)
+![jpg](1.jpg)
 ![jpg](2.jpg)
 ![jpg](3.jpg)
 ![jpg](4.jpg)
