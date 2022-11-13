@@ -630,3 +630,5 @@ plt.show()
 
 # Conclusion
 ## Taster's given description of the wine is closely corresponds to their given points of the wine
+
+![png](upwork.png)
