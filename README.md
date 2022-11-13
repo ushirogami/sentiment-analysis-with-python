@@ -2,11 +2,11 @@
 ![png](upwork.png)
 https://www.upwork.com/freelancers/~010513853d76c89bea
 
-![png](1.jpg)
-![png](2.jpg)
-![png](3.jpg)
-![png](4.jpg)
-![png](5.jpg)
+![jpg](1.jpg)
+![jpg](2.jpg)
+![jpg](3.jpg)
+![jpg](4.jpg)
+![jpg](5.jpg)
 
 # Correspondence of Wine Taster's Given Point and Comment In Their Reviews Using Sentiment Analysis (Hugging Face Transformers)
 
