@@ -1,3 +1,13 @@
+### *not related to the project, I find this is a good opportunity to update my resume.
+![png](upwork.png)
+https://www.upwork.com/freelancers/~010513853d76c89bea
+
+![png](1.png)
+![png](2.png)
+![png](3.png)
+![png](4.png)
+![png](5.png)
+
 # Correspondence of Wine Taster's Given Point and Comment In Their Reviews Using Sentiment Analysis (Hugging Face Transformers)
 
 
@@ -630,6 +640,3 @@ plt.show()
 
 # Conclusion
 ## Taster's given description of the wine is closely corresponds to their given points of the wine
-### *not related to the project, I find this is a good opportunity to update my resume.
-![png](upwork.png)
-https://www.upwork.com/freelancers/~010513853d76c89bea
