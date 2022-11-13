@@ -1,4 +1,4 @@
-### *I find this is a good opportunity to update my resume. Please scroll down for my Python project showcase, Thank you!.
+### *My apologies, but I find this is a good opportunity to update my resume. Please scroll down for my Python project showcase, Thank you!.
 ![png](upwork.png)
 https://www.upwork.com/freelancers/~010513853d76c89bea
 
