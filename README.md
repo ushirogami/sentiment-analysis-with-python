@@ -1,13 +1,13 @@
 ### *My apologies, but I find this is a good opportunity to update my resume. Please scroll down for my Python project showcase, Thank you!.
 ![png](upwork.png)
 https://www.upwork.com/freelancers/~010513853d76c89bea
-
+<p float="left">
 ![jpg](1.jpg)
 ![jpg](2.jpg)
 ![jpg](3.jpg)
 ![jpg](4.jpg)
 ![jpg](5.jpg)
-
+</p>
 # Correspondence of Wine Taster's Given Point and Comment In Their Reviews Using Sentiment Analysis (Hugging Face Transformers)
 
 
