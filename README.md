@@ -1,12 +1,3 @@
-### *My apologies, but I find this is a good opportunity to update my resume. Please scroll down for my Python project showcase, Thank you!
-![png](upwork.png)
-Proof of these reviews https://www.upwork.com/freelancers/~010513853d76c89bea
-
-![jpg](1.jpg)
-![jpg](2.jpg)
-![jpg](3.jpg)
-![jpg](4.jpg)
-![jpg](5.jpg)
 # Correspondence of Wine Taster's Given Point and Comment In Their Reviews Using Sentiment Analysis (Hugging Face Transformers)
 
 
